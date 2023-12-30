@@ -1,0 +1,17 @@
+{
+    "name": "Acts C Events",
+    "short_name": "ActsCEvents",
+    "description": "A website for viewing all events for Acts C Sukhumvit",
+    "scope": "/acts-c-events/",
+    "start_url": "/acts-c-events/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone", 
+    "icons": [
+        {
+          "src": "/acts-c-events/images/favicon.ico",
+          "type": "image/icon",
+          "sizes": "700x700"
+        }
+    ]
+  }
