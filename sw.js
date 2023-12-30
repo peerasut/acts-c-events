@@ -4,7 +4,7 @@ const VERSION = 'version_002';
 const URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/images/favicon.icon`,
+  `${GHPATH}/images/favicon.ico`,
   `${GHPATH}/js/app.js`
 ]
 
