@@ -7,8 +7,18 @@
       <title>Events Acts C Sukhumvit</title>
       <link rel="icon" type="image/x-icon" href="./images/favicon.ico?" />
       <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.ico?" />
+      <link rel="canonical" href="https://peerasut.github.io/acts-c-events/" />
+      <link rel="manifest" href="./manifest.json">
    </head>
    <body>
       <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: 0;" src="https://script.google.com/macros/s/AKfycbwGimar-WiaQbpzuyTt5PPc7OYH9lhsTOt2OA5Q344lN2BkgI1M4OuDwvMzu4k8JSWX/exec"></iframe>
+      <script>
+         if (navigator.serviceWorker) {
+           navigator.serviceWorker.register (
+             './sw.js',
+            {scope: '/acts-c-events/'}
+           )
+         }
+     </script>
    </body>
 </html>
