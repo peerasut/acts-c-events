@@ -1,6 +1,6 @@
 const GHPATH = '/acts-c-events';
 const APP_PREFIX = 'actscevent_';
-const VERSION = 'version_002';
+const VERSION = 'version_003';
 const URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
