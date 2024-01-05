@@ -1,6 +1,6 @@
 {
     "name": "Acts C Events",
-    "short_name": "ActsCEvents",
+    "short_name": "Acts C Events",
     "description": "A website for viewing all events for Acts C Sukhumvit",
     "scope": "/acts-c-events/",
     "start_url": "/acts-c-events/",
